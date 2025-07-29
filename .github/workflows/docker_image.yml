@@ -1,4 +1,4 @@
-name: deploy
+name: Secrets
 
 on: 
   push:
